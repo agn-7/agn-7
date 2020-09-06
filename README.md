@@ -7,3 +7,8 @@
  - M.Sc. Mechatronic Engineering from QIAU (HCI/HRI).
  - Python/Django Backend Developer in the field of Data Center Infrastructure Management (DCIM).
  - Machine Learning and Robotics enthusiast especially Deep Learning and Self-Driving Cars.
+
+
+[![agn's github stats](https://github-readme-stats.vercel.app/api?username=LeoSirius&count_private=true&show_icons=true)](https://github.com/agn-7/agn7)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSirius&count_private=true&show_icons=true&layout=compact)](https://github.com/agn-7/agn-7)
