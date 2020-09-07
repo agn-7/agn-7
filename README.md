@@ -9,4 +9,4 @@
  - Machine Learning and Robotics enthusiast especially Deep Learning and Self-Driving Cars.
 
 
-[![agn's github stats](https://github-readme-stats.vercel.app/api?username=agn-7&show_icons=true&theme=gruvbox)](https://github.com/agn-7/agn7)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agn-7&layout=compact&theme=gruvbox)](https://github.com/agn-7/agn-7)
+[![agn's github stats](https://github-readme-stats.vercel.app/api?username=agn-7&show_icons=true&theme=gruvbox)](https://github.com/agn-7/agn-7)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agn-7&layout=compact&theme=gruvbox)](https://github.com/agn-7/agn-7)
