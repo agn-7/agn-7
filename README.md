@@ -5,7 +5,7 @@
 [![LI](https://img.shields.io/badge/linked-in-007cb5.svg?style=for-the-badge)](http://www.linkedin.com/in/benyaminjmf)
 [![KG](https://img.shields.io/badge/kaggle-4daedb.svg?style=for-the-badge)](https://www.kaggle.com/benyaminjmf)
 
-
+ - B.Sc. Software Engineering at QIAU University.
  - M.Sc. Mechatronic Engineering from QIAU (HCI/HRI).
  - Python/Django Backend Developer in the field of Data Center Infrastructure Management (DCIM).
  - Machine Learning and Robotics enthusiast especially Deep Learning and Self-Driving Cars.
