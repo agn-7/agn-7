@@ -16,10 +16,10 @@
 
 <p>
     <a align="left" href="https://github.com/agn-7/agn-7">
-        <img alt="agn's github stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=agn-7&show_icons=true&theme=gruvbox">
+        <img alt="agn's github stats"  width="54%" src="https://github-readme-stats.vercel.app/api?username=agn-7&show_icons=true&theme=gruvbox">
     </a>
     <a align="right" href="https://github.com/agn-7/agn-7">
-        <img alt="agn's github stats"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agn-7&layout=compact&theme=gruvbox">
+        <img alt="agn's github stats"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agn-7&layout=compact&theme=gruvbox">
     </a>
 </p>
 
