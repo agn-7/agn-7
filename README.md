@@ -10,5 +10,16 @@
  - Python/Django Backend Developer in the field of Data Center Infrastructure Management (DCIM).
  - Machine Learning and Robotics enthusiast, especially Deep Learning and Self-Driving Cars.
 
-
+<!--
 [![agn's github stats](https://github-readme-stats.vercel.app/api?username=agn-7&show_icons=true&theme=gruvbox)](https://github.com/agn-7/agn-7)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agn-7&layout=compact&theme=gruvbox)](https://github.com/agn-7/agn-7)
+-->
+
+<p>
+    <a align="left" href="https://github.com/agn-7/agn-7">
+        <img alt="agn's github stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=agn-7&show_icons=true&theme=gruvbox">
+    </a>
+    <a align="right" href="https://github.com/agn-7/agn-7">
+        <img alt="agn's github stats"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agn-7&layout=compact&theme=gruvbox">
+    </a>
+</p>
+
