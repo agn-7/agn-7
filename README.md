@@ -7,7 +7,7 @@
 
  - B.Sc. in Software Engineering at QIAU University.
  - M.Sc. in Mechatronic Engineering (HRI) from QIAU University.
- - Python/Django Backend Developer in the field of Data Center Infrastructure Management (DCIM).
+ - Software Engineer — Backend (Python/Django/Flask)
  - Machine Learning and Robotics enthusiast, especially Deep Learning and Self-Driving Cars.
 
 <!--
