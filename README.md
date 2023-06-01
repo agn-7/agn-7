@@ -19,7 +19,7 @@
         <img alt="agn's github stats"  width="54%" src="https://github-readme-stats.vercel.app/api?username=agn-7&show_icons=true&theme=gruvbox">
     </a>
     <a align="right" href="https://github.com/agn-7/agn-7">
-        <img alt="agn's github stats"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agn-7&layout=compact&theme=gruvbox">
+        <img alt="agn's github stats"  width="41.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agn-7&layout=compact&theme=gruvbox">
     </a>
    <!--img src = "https://github-readme-streak-stats.herokuapp.com?user=agn-7&theme=onedark&hide_border=true"-->
 
