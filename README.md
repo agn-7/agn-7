@@ -4,9 +4,9 @@
 [![LI](https://img.shields.io/badge/linked-in-007cb5.svg?style=for-the-badge)](http://www.linkedin.com/in/benyaminjmf)
 [![KG](https://img.shields.io/badge/kaggle-4daedb.svg?style=for-the-badge)](https://www.kaggle.com/benyaminjmf)
 
- - B.Sc. in Software Engineering at QIAU University.
- - M.Sc. in Mechatronic Engineering (HRI) from QIAU University.
- - Software Engineer — Backend (Python/Django/Flask)
+ - 🎓 B.Sc. in Software Engineering at QIAU University.
+ - 🎓 M.Sc. in Mechatronic Engineering (HRI) from QIAU University.
+ - 🧑‍💻️ Software Engineer — Backend (Python/Django/Flask)
  - 👀 Machine learning and robotics enthusiast, especially deep learning and self-driving cars.
 
 <!--
