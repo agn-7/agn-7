@@ -6,7 +6,7 @@
 
  - 🎓 B.Sc. in Software Engineering at QIAU University.
  - 🎓 M.Sc. in Mechatronic Engineering (HRI) from QIAU University.
- - 🧑‍💻️ Software Engineer — Backend (Python/Django/Flask)
+ - 🧑‍💻️ Python Software Engineer — Backend (Django/Flask/FastAPI)
  - 👀 Machine learning and robotics enthusiast, especially deep learning and self-driving cars.
 
 <!--
